@@ -15,8 +15,7 @@ A simple chatbot built using Python and Flask that can respond to user queries, 
 - Python 3.x
 - Flask
 
-## Installation:
-1. Clone the repository:
+## Run the application:
    ```bash
-python app.py
+   python app.py
 
