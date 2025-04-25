@@ -1,8 +1,8 @@
 # Simple Python Chatbot 
 A simple chatbot built using Python and Flask that can respond to user queries, tell the current time, and perform basic math operations. It features an interactive chat interface created with HTML, CSS, and JavaScript.
 
-![Chatbot Image](assets/chatbot.png) 
-![Chatbot Interaction](assets/questions.png)
+<img src="assets/chatbot.png" alt="Chatbot Image" width="500"/>
+<img src="assets/questions.png" alt="Chatbot Interaction" width="500"/>
 
 ## Features:
 - Responds to greetings like "Hi" and "Hello"
